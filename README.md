@@ -7,7 +7,6 @@ The method and its assumptions are described in the article Improved methods for
 
 ``` 
 pip install git+https://github.com/hognely/pyPLD.git 
-
 ``` 
 
 or for an editable install: 
@@ -16,12 +15,11 @@ or for an editable install:
 git clone https://github.com/hognely/pyPLD.git 
 cd pyPLD 
 pip install -e . 
-
 ``` 
 
 ## Tutorials: 
 
-3 tutorials demonstrating the features of pyPLD are included in the tutorial folder.  
+3 tutorials demonstrating the features of pyPLD are included in the tutorials folder.  
 
 
 ## License: 
